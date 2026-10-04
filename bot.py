@@ -9,7 +9,7 @@ from datetime import datetime
 import telebot
 from telebot import types
 
-TELEGRAM_TOKEN = "8978752644:AAEM7WVauyyhfk1mfUt6Oqy3y4_ca4hjJhk"
+TELEGRAM_TOKEN = "8978752644:AAHYqW9eELfub0nEgy6GAJw3T6cLqmJ4JzI"
 ADMIN_CHAT_ID = 8340417920
 BOT_USERNAME = "KanPrimetvOficial_Bot"
 PRECO_MENSALIDADE = 35.00
